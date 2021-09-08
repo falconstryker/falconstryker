@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @falconstryker
-- 👀 I’m interested in coding for atmospheric science
-- 🌱 I’m currently learning GitHub and ML on Coursera
-- 💞️ I’m looking to collaborate on projects with my peers
+- 👋 Hi, I’m Court (@falconstryker)
+- 👀 I’m interested in coding for atmospheric science: GCM output, data analysis, file manipulations, etc.
+- 🌱 I’m currently learning how to use GitHub effectively as well as ML (on Coursera!)
+- 💞️ I’m looking to collaborate on projects with my coworkers at the NASA Ames MCMC
 - 📫 How to reach me: cmlbatterson@gmail.com
 
 <!---
