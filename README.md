@@ -1,8 +1,8 @@
-- 👋 Courtney Batterson, M.S. Atmospheric Science
-- 👀 I’m interested in global climate modeling, model output, data analysis, data visualization, etc.
-- 🌱 Still learning how to use GitHub, teaching myself some ML techniques (on Coursera!)
-- 💞️ I’m looking to collaborate on projects with my team: NASA Ames MCMC
-- 📫 Reach me @ cmlbatterson@gmail.com
+- Courtney Batterson, M.S. Atmospheric Science; Research Associate @ Mars Climate Modeling Center (NASA Ames, BAERI)
+- Global climate modeling, model output, data analysis & visualization, etc.
+- Still learning how to use GitHub, teaching myself some ML techniques & advanced data analytics (on Coursera!)
+- I use this space to collaborate on projects with my team! See NASA/AmesGCM and NASA-Planetary-Science-AmesCAP
+- Reach me @ cmlbatterson@gmail.com 📫
 
 <!---
 falconstryker/falconstryker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
